@@ -1,0 +1,24 @@
+{
+	"la": {
+		"tonoMayor": "A",
+		"tonoMenor": "Am",
+		"septima": "A7",
+		"sexta": "A6",
+		"menorSexta": "Am6",
+		"menorSeptima": "Am7",
+		"septimaMayor": "A7M",
+		"disminuida": "Adim7",
+		"aumentados": "Aaug"
+	},
+	"la#Sib": {
+		"tonoMayor": "la#",
+		"tonoMenor": "A#m",
+		"septima": "A#m",
+		"sexta": "A#6",
+		"menorSexta": "A#m6",
+		"menorSeptima": "A#m7",
+		"septimaMayor": "A#7m",
+		"disminuida": "A#dim7",
+		"aumentados": "A#aug"
+	}
+}
